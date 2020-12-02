@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Candy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen_sliced" sketch:type="MSLayerGroup" transform="translate(0.000000, -1320.000000)"></g>
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-7.000000, -1318.000000)" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Candy" transform="translate(36.000000, 1348.001786) rotate(-315.000000) translate(-36.000000, -1348.001786) translate(1.000000, 1333.501786)" sketch:type="MSShapeGroup">
+                <ellipse id="Oval-750" cx="35" cy="14.5" rx="22" ry="14.5"></ellipse>
+                <path d="M57.8769146,12.6300026 L67.4492721,8.17089698 L66.3113356,12.8935139 L69.7642603,16.6053179 L63.8651065,19.4421819 L64.7441637,22.4066843 L57.5114986,18.3294642" id="Path-1740"></path>
+                <path d="M0.876914644,12.6300026 L10.4492721,8.17089698 L9.31133556,12.8935139 L12.7642603,16.6053179 L6.86510645,19.4421819 L7.74416375,22.4066843 L0.511498556,18.3294642" id="Path-1741" transform="translate(6.637879, 15.288791) scale(-1, 1) translate(-6.637879, -15.288791) "></path>
+                <path d="M33.4348728,0.193759301 L28.1656949,8.48137188 L32.6669236,14.3375321 L27.0894318,21.0570229 L35.551051,28.9043343 L40.9736125,28.4173736 L36.4066479,20.6999871 L41.3162122,13.278283 L35.5430596,7.32416348 L38.3807851,0.308732557 L33.4348728,0.193759301 Z" id="Path-1742"></path>
+            </g>
+        </g>
+    </g>
+</svg>
