@@ -5,3 +5,8 @@ Simply open the index.html file to get started using the application!
 Use your cursor as a finger to swipe the screen on a computer, or you can simply open the link on your preferred mobile device!
 
 This app was built for the resolution of an iPhone 8 in mind (about 375 x 667).
+
+
+CS 3041 Human Computer Interaction
+
+-Derek Byrne
